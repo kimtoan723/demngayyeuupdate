@@ -1,0 +1,93 @@
+﻿{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "nkm1703@gmail.com",
+    "PASSWORD": "Anhyeuem03",
+    "OTPKEY": "",
+    "BOTNAME": "BoT SyN",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100038379006171",
+        "100010567789005"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyD2KpeD-N2CbW0fhv35aYhIJA9SkpsL1L0"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyD2KpeD-N2CbW0fhv35aYhIJA9SkpsL1L0"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sim": {
+        "APIKEY": "TEST2208"
+    },
+    "surprise": {
+        "log": true,
+        "out": "true",
+        "kickAll": "true",
+        "delThread": "true"
+    },
+    "menu": {
+        "autoUnsend": false,
+        "delayUnsend": 10
+    }
+}

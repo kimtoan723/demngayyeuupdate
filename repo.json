@@ -1,0 +1,24 @@
+{
+	"version": "2.2.17",
+	"change": ["sim"],
+	"modules": {
+		"commands": {
+			"adduser": "2.4.1",
+			"alime": "1.1.2",
+			"covid": "2.0.2",
+			"fbuser": "2.0.0",
+			"filter": "2.0.1",
+			"hitbutt": "2.2.2",
+			"img": "3.1.0",
+			"linkword": "2.0.7",
+			"meewmeew": "2.2.6",
+			"sim": "4.3.0",
+			"slap": "2.2.2",
+			"sortword": "1.1.0",
+			"surprise": "3.1.0",
+			"teach": "2.0.3",
+			"xsmb": "2.0.1"
+		},
+		"events": {}
+	}
+}
